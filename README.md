@@ -1,4 +1,4 @@
-# DuckyPad-Helldivers
+# DuckyPad-Helldivers 2
 Helldivers Stratagems for the DuckyPad PRO (WASD)
 ![image](https://github.com/user-attachments/assets/8d340257-7ef7-4f58-b9b1-927ebe5ef56b)
 
